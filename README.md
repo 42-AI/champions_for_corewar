@@ -28,9 +28,9 @@ Gif by [Emil Wallner](https://github.com/emilwallner/Corewar)
 * [2018](https://www.youtube.com/watch?v=R-OkYyzp-DI&list=PLVQYiy6xNUxw5PyfsTW2lHTnL-FjI9Nkz&index=6&t=0s)
 * [2017](https://www.youtube.com/watch?v=Kcn7Zec4RHY&list=PLVQYiy6xNUxw5PyfsTW2lHTnL-FjI9Nkz&index=14&t=0s)
 
-## Contributing to this database
+## Contributing
 
-Want to add your champion?
+You are a 42 student and you want to add your champion?
 
 1. Fork the repository.
 2. Clone the forked repository to your machine and change it to your working directory.
@@ -51,6 +51,12 @@ git checkout -b add-rainbowdash
 ```console
 git push origin <add-yourbranchname>
 ```
+
+Example:
+```console
+git push origin add-rainbowdash
+```
+
 6. Open a pull request by clicking on the `Compare & pull request` button you'll see on the remote repository.
 7. Your changes will be merged into the master branch as soon as possible.
 
